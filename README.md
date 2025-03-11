@@ -1,4 +1,3 @@
-# Ahmed-Ali-1
 <h1 align="center">Hi 👋, I'm Ahmad Ali</h1>
 <h3 align="center">A passionate Front-End Developer from Pakistan</h3>
 
