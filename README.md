@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Ali</h1>
-<h3 align="center">A passionate Front-End Developer from Pakistan</h3>
+<h3 align="center">🚀 Web Developer | Passionate About Creating Seamless Digital Experiences</h3>
 
 - 🌱 I’m currently learning JavaScript, React, and Web Development
 - 👯 I’m looking to collaborate on open-source projects
